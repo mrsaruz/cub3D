@@ -1,5 +1,5 @@
 
-*This project has been created as part of the 42 curriculum by patquesa and adruz-to*
+*This project has been created as part of the 42 curriculum by __patquesa__ and __adruz-to__*
 
 # cub3D
 
@@ -341,10 +341,10 @@ For 42 School submission:
 - MLX42 developers at Codam Coding College
 - The raycasting community for tutorials and resources
 
+---
+
 ## License
 
 This project is part of the 42 School curriculum and is intended for educational purposes.
 
 ---
-
-*May your rays always hit their targets! 🎯*
